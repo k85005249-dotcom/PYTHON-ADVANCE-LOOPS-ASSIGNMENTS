@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-This repository contains **20+ practical Python problems based on loops**.
+This repository contains **20+ practical Python problems based Questions on loops**.
 Each question simulates **real-world scenarios**, making it easier to understand how loops work in actual applications.
 
 📂 Source: Assignment File 
