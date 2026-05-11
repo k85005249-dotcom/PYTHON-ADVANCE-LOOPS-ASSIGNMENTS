@@ -17,8 +17,8 @@ Each question simulates **real-world scenarios**, making it easier to understand
 
 ## 🎯 Topics Covered
 
-* 🔁 For Loop
-* 🔄 While Loop
+* 🔁 For Loops
+* 🔄 While Loops
 * 🔂 Nested Loops
 * 🧠 Logical Thinking
 * 📊 Real-world Problem Solving
